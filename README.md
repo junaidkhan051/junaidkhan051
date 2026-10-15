@@ -1,7 +1,7 @@
 <!-- Animated profile header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Junaid%20Khan&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Java%20%26%20AI%20Developer&descAlignY=60&descSize=16" alt="Junaid Khan profile banner" width="100%" />
+<img src="assets/profile-banner.svg" alt="Junaid Khan — Software Engineering Student banner" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+useful+software%2C+one+project+at+a+time;Java+%7C+Spring+Boot+%7C+SQL;Exploring+AI%2C+ML+and+backend+engineering" alt="Animated typing introduction" />
